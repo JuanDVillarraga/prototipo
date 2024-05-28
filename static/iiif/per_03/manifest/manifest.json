@@ -1,0 +1,42 @@
+{
+  "id": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Anatomia de vecina chismosa en Argentina"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/manifest/canvas-0.json",
+              "body": {
+                "id": "https://JuanDVillarraga.github.io/prototipo/iiif/per_03/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1182,
+                "width": 1182
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1182,
+      "height": 1182,
+      "annotations": []
+    }
+  ]
+}

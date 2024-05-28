@@ -4,8 +4,7 @@ name: credits
 
 # Créditos
 
-Esta colección fue creada por [Sergio Rodríguez Gómez](https://srsergiorodriguez.github.io/).
+Esta colección fue creada por Juan Dario Villarraga para ejemplificar un futuro prototipo que permita vizualizar los diferentes metadatos obtenidos de la propuesta de diseñar un flujo metodológico para proyectos de Humanides Digitales dentro del marco de análisis de productos culturales a gran escala. 
 
-Basada en la plantilla [Serie Mini](https://github.com/srsergiorodriguez/serie-mini), para la creación de colecciones digitales, creada por [Sergio Rodríguez Gómez](https://srsergiorodriguez.github.io/).
+Prototipo basado en la plantilla [Serie Mini](https://github.com/srsergiorodriguez/serie-mini), para la creación de colecciones digitales, creada por [Sergio Rodríguez Gómez](https://srsergiorodriguez.github.io/).
 
-Las imágenes provienen del [Rijksstudio](https://www.rijksmuseum.nl/en), la colección digital del Rijks Museum de Países Bajos. Todas las imágenes usadas están en el dominio público.

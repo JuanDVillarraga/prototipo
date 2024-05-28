@@ -1,0 +1,21 @@
+{
+  "id": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_esp02/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_esp02/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_esp02/manifest/canvas-0.json",
+      "body": {
+        "id": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_esp02/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 720,
+        "width": 1280
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}

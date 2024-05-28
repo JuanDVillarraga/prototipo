@@ -1,0 +1,15 @@
+{
+  "id": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_col02/manifest/image-0.json",
+  "items": [],
+  "type": "Annotation",
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "motivation": "painting",
+  "target": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_col02/manifest/canvas-0.json",
+  "body": {
+    "id": "https://JuanDVillarraga.github.io/prototipo/iiif/aqui_col02/0/full/max/0/default.jpg",
+    "type": "Image",
+    "format": "image/jpeg",
+    "height": 360,
+    "width": 640
+  }
+}

@@ -2,15 +2,8 @@
 name: home
 ---
 
-# Introducción
+# Proto- protitipo
 
-Esta es una plantilla para la creación de coleciones culturales digitales basada en Svelte
+Este es un prototipo que tiene como objetivo dar una aproximación sobre la vizualización de posibles metadatos obtenidos, desde el desarrollo y aplicación de diferentes herramientas de humanidades digitales, que puedan facilitar la comprensión de cambios culturales y sociales a largo plazo, particularmente en el análisis de productos culturales masivos y su impacto en la sociedad.
 
-Es similar a otros sistemas de computación mínima, como [Wax](https://minicomp.github.io/wax/) o [Collection Builder](https://collectionbuilder.github.io/), pero tiene como fin ser una herramienta educativa para las humanidades digitales acerca de conceptos esenciales relacionados con colecciones digitales (metadatos, ítems, protocolos, narrativas).
-
-En particular, Serie Mini tiene las siguientes características:
-
-- Interfaz en español
-- Es fácil de instalar (El código está basado en Svelte, no en Jekyll. No requiere contentedores de Docker)
-- Es fácil de usar (Tiene una interfaz CLI que guía en el proceso de configuración y todos los elementos de la colección se disponen en una carpeta particular)
-- Es fácil de publicar en Github Pages por defecto
+Su propósito es representar cómo las adaptaciones de la serie de tv "Aquí no hay quien viva" reflejan y transforman los arquetipos de personajes y problemáticas de la clase media, empleando herramientas de humanidades digitales para descifrar la evolución de la percepción pública y el impacto cultural de estas representaciones a lo largo del tiempo.
